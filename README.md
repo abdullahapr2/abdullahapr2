@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-<img src="https://i.ytimg.com/vi/wKgLI9K6KTQ/mqdefault.jpg" width="70%" height="100%" />
 <!--
 **abdullahapr2/abdullahapr2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
