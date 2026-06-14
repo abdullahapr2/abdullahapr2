@@ -1,5 +1,12 @@
 <div align="center">
-  <h1>Abdullah Tahir</h1>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <h1 style="margin: 0;">Abdullah Tahir</h1>
+
+  <img
+    src="https://komarev.com/ghpvc/?username=rizwanpirzada&style=flat-square&color=1B3A6B"
+    alt="profile views."
+  />
+</div>
   <h3>Senior Full Stack Engineer</h3>
   <p>TypeScript · React · NestJS · Node.js · Rails &nbsp;|&nbsp; SaaS · Fintech · IoT · EdTech · ERP</p>
 
@@ -12,7 +19,6 @@
   <a href="https://www.upwork.com/freelancers/~016f9015820fed4ea5">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
   </a>
-  <img src="https://komarev.com/ghpvc/?username=rizwanpirzada&style=flat-square&color=1B3A6B" alt="profile views"/>
 </div>
 
 ---
