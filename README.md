@@ -1,114 +1,132 @@
-<h1> Hey there! I'm Abdullah<h1> 
+<div align="center">
+  <h1>Abdullah Tahir</h1>
+  <h3>Senior Full Stack Engineer</h3>
+  <p>TypeScript · React · NestJS · Node.js · Rails &nbsp;|&nbsp; SaaS · Fintech · IoT · EdTech · ERP</p>
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <p style="color: silver; font-size: 12px; font-style: italic;">From Backend Logic to Frontend Magic</p>
-  <div id="badges">
-    <a href="https://www.linkedin.com/in/abdullah-tahir-a30565214/">
-      <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://www.upwork.com/freelancers/~016f9015820fed4ea5">
-      <img src="https://img.shields.io/badge/Upwork-p?style=for-the-badge&logo=upwork&logoColor=white" alt="Youtube Badge"/>
-    </a>
-    <a href="mailto:abtahir861@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Twitter Badge"/>
-    </a>
-  </div>
-  <img src="https://komarev.com/ghpvc/?username=abdullahapr2&style=flat-square&color=red" alt=""/>
-
+  <a href="https://www.linkedin.com/in/abdullah-tahir-a30565214/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:abtahir861@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.upwork.com/freelancers/~016f9015820fed4ea5">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" alt="Upwork"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=rizwanpirzada&style=flat-square&color=1B3A6B" alt="profile views"/>
 </div>
 
+---
 
+## About
 
-<h4> FullStack Software Engineer seeking innovative solutions to everyday problems. </h4>
+Full Stack Engineer with 4+ years shipping production software across fintech, SaaS, mobile, and IoT. I'm comfortable owning a feature from the first database migration through the final React component — schema design, API architecture, frontend components, cloud deployment, the whole thing.
 
+Currently leading a team at Devsinc while staying fully hands-on as an IC, shipping React Native, NestJS, and TypeScript to production every week. Looking for senior IC roles on remote-first teams where async communication and independent ownership are the norm.
 
-<table>
-  <tr>
-    <td valign="center" width="100%">
-      
-  🏗️ &nbsp;Writing Code That Works, Scales, and Lasts  </br>
-  :seedling: &nbsp;Turning Ideas into ***Scalable Software*** </br>
-  :walking: &nbsp;Like an evening walk</br>
-  :house_with_garden: &nbsp;Open to work **remotely**</br>
-  :computer: &nbsp;Connect with me on **[Upwork]**
-  
-  </td>
-  </tr>
-</table>
+- Currently building at **Devsinc** as Associate Team Lead, shipping full stack features daily
+- 4+ years across **fintech, SaaS, EdTech (K-12), IoT, and ERP** domains
+- Strong in **Node.js API design, PostgreSQL performance tuning, and React/TypeScript** frontends
+- Open to **remote IC roles** — async-first, independent ownership, no micromanagement
 
-<h1>
-<h3>Skills and Tech Stack I work with:</h3>
+---
 
-<p>
-  <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img alt="ROR" src="https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white" />
-  <img alt="Node.js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="Next" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="JS" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img alt="TS" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" />
-  <img alt="redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
-  <img alt="chakra" src="https://img.shields.io/badge/tailwind-%234ED1C5.svg?style=for-the-badge&logo=tailwindCss&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="css" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="sass" src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white" />
-  <img alt="mui" src="https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white" />
-  <img alt="bootstrap" src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Postgresql" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="mysql" src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="Mongodb" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="cassandra" src="https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white" />
-  <img alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/aws-%23777BB4.svg?style=for-the-badge&logo=amazon&logoColor=white" />
-  <img alt="heroku" src="https://img.shields.io/badge/Heroku-3C3C3D?style=for-the-badge&logo=Heroku&logoColor=white" />
-  <img alt="GCP" src="https://img.shields.io/badge/gcp-%23777BB4.svg?style=for-the-badge&logo=google&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="Kubernetees" src="https://img.shields.io/badge/kubernetes-%230db7ed.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
-    <img alt="github actions" src="https://img.shields.io/badge/github actions-%23F05033.svg?style=for-the-badge&logo=githubActions&logoColor=white" />
-  <img alt="CI/CD" src="https://img.shields.io/badge/CI/CD-000?style=for-the-badge&logo=circleCi&logoColor=white" />
-  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-%23363636.svg?style=for-the-badge&logo=jenkins&logoColor=white" />
-  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-311C87?style=for-the-badge&logo=apollo-graphql" />
-  <img alt="storybook" src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" />
-  <img alt="figma" src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />
-  <img alt="socket.io" src="https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101" />
-  <img alt="github" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  
-</p>
+## Tech Stack
 
-<h1></h1>
+**Languages**
 
-<h3>My GitHub contributions summary</h3>
-<h1></h1>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-[![GitHub Streak](https://nirzak-streak-stats.vercel.app?user=abdullahapr2&theme=dark&border_radius=10.4&date_format=j%20M%5B%20Y%5D&card_width=800)](https://git.io/streak-stats)
+**Frontend**
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Material UI](https://img.shields.io/badge/MUI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
 
-</br>
+**Backend**
 
-</br>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
-***I Mostly Work in:*** 
+**Data & Caching**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
+---
+
+## Portfolio Projects
+
+A set of 10 JavaScript projects built across different stacks and industries to demonstrate breadth as an IC engineer.
+
+| Project | Stack | Domain |
+|---|---|---|
+| [freight-flow-api](https://github.com/rizwanpirzada/freight-flow-api) | NestJS · PostgreSQL · TypeORM | Logistics / B2B SaaS |
+| [triage-desk](https://github.com/rizwanpirzada/triage-desk) | NestJS · PostgreSQL · WebSockets | Support / Ticketing |
+| [dealcrunch](https://github.com/rizwanpirzada/dealcrunch) | Next.js · Node.js · PostgreSQL | Sales / CRM |
+| [recall-loop](https://github.com/rizwanpirzada/recall-loop) | React · Node.js · PostgreSQL | EdTech / Learning |
+| [envelope-cast](https://github.com/rizwanpirzada/envelope-cast) | Next.js · PostgreSQL | Fintech / Budgeting |
+| [pass-line](https://github.com/rizwanpirzada/pass-line) | Node.js · PostgreSQL | Events / Ticketing |
+| [overload-coach](https://github.com/rizwanpirzada/overload-coach) | React · Node.js | Health / Coaching |
+| [feedforge](https://github.com/rizwanpirzada/feedforge) | Next.js · PostgreSQL | Content / Media |
+| [pulsegrid](https://github.com/rizwanpirzada/pulsegrid) | Node.js · WebSockets · Redis | IoT / Monitoring |
+| [seatwise](https://github.com/rizwanpirzada/seatwise) | React · Node.js · PostgreSQL | Hospitality / Reservations |
+
+---
+
+## Production Work
+
+Things I have shipped in real products at scale:
+
+**Fintech Mobile App (React Native · NestJS · AWS)**
+Production fintech app with biometric auth (Secure Enclave on iOS, Android Keystore), FCM/APNs push notifications, Nafath MFA for KYC onboarding, and ConfigCat feature flags for safe rollouts without app store releases.
+
+**K-12 Education and Camp Management Platform (Node.js · React · PostgreSQL · GraphQL)**
+SaaS platform serving 5,000+ active users across school districts and summer camps. Included a dynamic form-builder engine, 12-level configurable RBAC, NetSuite ERP integration, and real-time transportation tracking via WebSockets.
+
+**Real-Time IoT Device Monitoring (Node.js Microservices · Next.js · WebSockets · Redis)**
+Live monitoring system for IoT telemetry streams supporting 1,000+ concurrent WebSocket connections. Built event ingestion pipelines, Redis aggregation, and JWT-secured multi-tenant dashboards.
+
+**Fintech Payroll and Crypto Wallet Platform (Ruby on Rails · GraphQL · Sidekiq)**
+REST and GraphQL APIs handling 10,000+ daily requests at under 200ms. Sidekiq-based payroll pipelines processing 5,000+ monthly transactions with zero payment failures over 12 months.
+
+---
+
+## GitHub Activity
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=abdullahapr2)](https://git.io/streak-stats)
+
+---
+
+## What I Spend Most Time On
 
 ```text
-React | Rails | Node                         ████████████████████████░░░░░░   70% 
-
-PostgreSQL | MySQL                           ██████░░░░░░░░░░░░░░░░░░░░░░░░   15% 
-
-Docker | Kubernetes                          ████░░░░░░░░░░░░░░░░░░░░░░░░░░   05% 
-
-AWS | Heroku | Cloud                         ████░░░░░░░░░░░░░░░░░░░░░░░░░░   05% 
-
-Documentation                                ████░░░░░░░░░░░░░░░░░░░░░░░░░░   05%
+React / React Native / Next.js      ████████████████████░░░░░░░░░░   60%
+Node.js / NestJS / Rails            ████████████░░░░░░░░░░░░░░░░░░   25%
+PostgreSQL / Redis                  ████░░░░░░░░░░░░░░░░░░░░░░░░░░   08%
+AWS / Docker / CI/CD                ██░░░░░░░░░░░░░░░░░░░░░░░░░░░░   05%
+System Design / ADRs                █░░░░░░░░░░░░░░░░░░░░░░░░░░░░░   02%
 ```
-<h1></h1>
+
+---
+
 <div align="center">
-
-[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/abdullahapr2/) 
+  <p>Open to remote IC roles &nbsp;·&nbsp; Lahore, Pakistan &nbsp;·&nbsp; <a href="mailto:abtahir861@gmail.com">abtahir861@gmail.com</a></p>
 </div>
-
-<!-- links -->
-
-[Devsinc]: https://github.com/8451 "Devsinc"
-[Upwork]: https://www.upwork.com/freelancers/~016f9015820fed4ea5 "Upwork"
-
